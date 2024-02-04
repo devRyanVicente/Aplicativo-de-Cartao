@@ -15,3 +15,4 @@ Para que o Aplicativo Funcione Corretamente você precisa:
 o aplicativo verifica automaticamente se você tem conexão com a Database, Caso você não tenha ele ira Avisar com um MessageBox de Erro.
 a verificação é feita em uma Task separada, assim evitando travamentos no Programa Principal.
 
+<img src= "https://github.com/devRyanVicente/devRyanVicente/blob/main/imgs/Exemplo_DB.png" width="200" height="150"> 
