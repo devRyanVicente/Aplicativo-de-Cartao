@@ -5,8 +5,8 @@ O Aplicativo Permite você Adicionar, Alterar é Remover pessoas da DataBase, a 
 Para que o Aplicativo Funcione Corretamente você precisa:
 
 # MySql.Data.MySqlClient 
--que você pode encontrar em: https://dev.mysql.com/downloads/connector/net/
--ao instalar verifique se ele esta adicionado nas referencias do seu projeto, caso você não o encontre nas extensoes adicione ele manualmente: 'C:\Program Files (x86)\MySQL\MySQL Connector NET 8.3.0\MySql.Data.dll' 
+- que você pode encontrar em: https://dev.mysql.com/downloads/connector/net/
+- ao instalar verifique se ele esta adicionado nas referencias do seu projeto, caso você não o encontre nas extensoes adicione ele manualmente: 'C:\Program Files (x86)\MySQL\MySQL Connector NET 8.3.0\MySql.Data.dll' 
  
 # XAMPP (ou outro programa que faça a mesma função)
 - Ligue o Apache é o MySQL 
